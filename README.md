@@ -1,1 +1,1 @@
-# Discord-create-channel-on-message-embed-react-bot
+# Discord bot to create private channel on message or embed react
